@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\bin\Debug\Classes_Statiques.exe.config
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\bin\Debug\Classes_Statiques.exe
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\bin\Debug\Classes_Statiques.pdb
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\obj\Debug\Classes_Statiques.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\obj\Debug\Classes_Statiques.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\obj\Debug\Classes_Statiques.exe
+C:\Users\18196\source\repos\Classes_Statiques\Classes_Statiques\obj\Debug\Classes_Statiques.pdb
